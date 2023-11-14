@@ -4,3 +4,4 @@ Praticando conceitos do Box Model
    - display; block;
    - display: inline;
    - displine: inline-block;
+   - display-none;
